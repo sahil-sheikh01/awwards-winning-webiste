@@ -1,20 +1,16 @@
 <img width="1800" height="520" alt="banner" src="https://github.com/user-attachments/assets/8c9af336-c685-4481-9fdd-442a2053ea2d" />
 
-# ✦ Awwwards-Winning Website
+# ✦ Awwwards Winning Website
 
 A visually immersive, modern website built with **React, Tailwind CSS, and GSAP**, inspired by the design language and interactive experience of award-winning websites.
 
 The project focuses on **smooth animations, creative transitions, interactive elements, and modern UI/UX** while keeping the codebase structured and reusable.
-
----
 
 ## 🛠️ Tech Stack
 
 * • **React + Vite**
 * • **Tailwind CSS**
 * • **GSAP**
-
----
 
 ## ✨ Features
 
@@ -29,8 +25,6 @@ The project focuses on **smooth animations, creative transitions, interactive el
 ### • Smooth UI & UX
 
 ### • Fully Responsive
-
----
 
 ## ⚙️ Getting Started
 
@@ -70,8 +64,6 @@ npm run dev
 
 Open the local development URL shown in your terminal.
 
----
-
 ## 🎯 What I Learned
 
 Through this project, I explored:
@@ -84,8 +76,6 @@ Through this project, I explored:
 * Implementing interactive hover effects
 * Creating smooth section and video transitions
 * Structuring reusable React components
-
----
 
 ## 📌 Disclaimer
 
