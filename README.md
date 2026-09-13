@@ -2,29 +2,22 @@
 
 # ✦ Awwwards Winning Website
 
-A visually immersive, modern website built with **React, Tailwind CSS, and GSAP**, inspired by the design language and interactive experience of award-winning websites.
-
-The project focuses on **smooth animations, creative transitions, interactive elements, and modern UI/UX** while keeping the codebase structured and reusable.
+A visually immersive, modern website focused on **smooth animations, creative transitions, interactive elements, and engaging UI/UX** while keeping the codebase structured and reusable.
 
 ## 🛠️ Tech Stack
 
-* • **React + Vite**
-* • **Tailwind CSS**
-* • **GSAP**
+*  **React + Vite**
+*  **Tailwind CSS**
+*  **GSAP**
 
 ## ✨ Features
 
-### • Scroll-Based Animations
-
-### • Clip-Path Transitions
-
-### • Interactive Hover Effects
-
-### • Video-Based Storytelling
-
-### • Smooth UI & UX
-
-### • Fully Responsive
+* Scroll-Based Animations
+* Clip-Path Transitions
+* Interactive Hover Effects
+* Video-Based Storytelling
+* Smooth UI & UX
+* Fully Responsive
 
 ## ⚙️ Getting Started
 
